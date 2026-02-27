@@ -22,4 +22,5 @@ This repository contains all the Python exercises, notes, and resources from the
 ## Contact / Author
 - ["Vikash Harjeewan"]
 - Email: [vikashbaria4@gmail.com]
-- GitHub: [[link to your profile](https://github.com/vikashbaria)]
+- GitHub: [[Vikash Baria](https://github.com/vikashbaria)]
+- Upwork Freelancer : [[Vikash Baria](https://www.upwork.com/freelancers/~01f5a825ac35115863)]
